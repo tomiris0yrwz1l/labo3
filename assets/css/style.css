@@ -1,0 +1,19 @@
+:root {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Sixtyfour Convergence', sans-serif;
+}
+
+p{
+    font-size: 40px;
+    color: orange;
+}
